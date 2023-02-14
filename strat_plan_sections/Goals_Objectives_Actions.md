@@ -1,6 +1,6 @@
 # Goals, Objectives, and Actions
 
-**Crate GOA introduciton here**
+**Instruction: Goals are directly from the GDA and are a mandatory part of the Theme Strategic Plan. Goals are based on a three year lifecycle. Objectives preceded by an 'M' (M-Objective) are mantatory.  Objectives can span the goal lifecycle or be shorter based on Theme requirements. Actions should be finite achievable actions to complete an objective. A given objective may have one or many actions to complete an objective. Actions may occur simultaneously or sequentually to achieve an objective. When formulating objectives and actions, those actions will be the basis for annual reporting and act as an aid to self assessmment determination of "Meets Expectations," Making Progress Toward Expectations," or "Fails to Meet Expectations."**
 
 ## Goal 1 (§2805 b3A): Provide leadership and facilitate the development and implementation of geospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme
 
